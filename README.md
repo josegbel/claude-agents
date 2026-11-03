@@ -25,6 +25,4 @@ cd ~/ClaudeEnvironment/claude-agents
 
 ## Known gaps
 
-- TODO: `skills/spec-task/templates/` (`task.md`, `checkpoint.md`) is not in this repo yet. The skill needs both files to work. Copy them in from the original machine:
-  `cp -R ~/.claude/skills/spec-task/templates skills/spec-task/`
 - TODO: `android-migration-developer` calls a `kotlin-j2k-style` skill that is not in this repo yet.
